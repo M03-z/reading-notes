@@ -1,6 +1,8 @@
 # reading-notes
 
-**13/12/2020**
+1. [**13/12/2020**](#**13/12/2020**)
+2. [**14/12/2020**](#**14/12/2020**)
+## **13/12/2020**
 
 Github creation 
 
@@ -10,7 +12,7 @@ learned more on using github
 
 Downloaded some programs needed to start working
 
-**14/12/2020**
+## **14/12/2020**
 
 Git hub command 
 ls = list
