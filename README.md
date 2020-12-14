@@ -28,6 +28,6 @@ clear = deletes log
 Git helps edit your main project by cloning it then merging without changing the main image
 
 
-
+git acp <./files_to_add> <"my commit message">
 
 
