@@ -40,3 +40,5 @@ searching for ways to make the website suitable for all devices
 Display the web page through VS
 Learned JavaScript
 Applying JavaScript in a web page
+
+Watched a few experts talk about the work flow of a computer 
