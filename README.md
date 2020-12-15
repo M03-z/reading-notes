@@ -36,3 +36,7 @@ git acp <./files_to_add> <"my commit message">
 Creating a seprate CSS page
 Researching on how to choose the colors
 searching for ways to make the website suitable for all devices
+
+Display the web page through VS
+Learned JavaScript
+Applying JavaScript in a web page
