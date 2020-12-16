@@ -2,6 +2,7 @@
 
 1. [**13/12/2020**](#**13/12/2020**)
 2. [**14/12/2020**](#**14/12/2020**)
+3. [**15/12/2020**](#**15/12/2020**)
 ## **13/12/2020**
 
 Github creation 
@@ -32,4 +33,14 @@ Git helps edit your main project by cloning it then merging without changing the
 
 git acp <./files_to_add> <"my commit message">
 
+## **15/12/2020**
+
+Creating a seprate CSS page 
+Researching on how to choose the colors 
+Searching for ways to make the website suitable for all devices
+
+Display the web page through VS 
+Learned JavaScript Applying JavaScript in a web page
+
+Listened to some tech experts about the 4 stages of the computers work flow
 
