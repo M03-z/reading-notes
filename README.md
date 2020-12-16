@@ -3,6 +3,7 @@
 1. [**13/12/2020**](#**13/12/2020**)
 2. [**14/12/2020**](#**14/12/2020**)
 3. [**15/12/2020**](#**15/12/2020**)
+4. [**16/12/2020**](#**16/12/2020**)
 ## **13/12/2020**
 
 Github creation 
@@ -44,3 +45,4 @@ Learned JavaScript Applying JavaScript in a web page
 
 Listened to some tech experts about the 4 stages of the computers work flow
 
+## **16/12/2020**
