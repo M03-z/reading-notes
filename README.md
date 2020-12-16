@@ -46,3 +46,6 @@ Learned JavaScript Applying JavaScript in a web page
 Listened to some tech experts about the 4 stages of the computers work flow
 
 ## **16/12/2020**
+
+creating a script
+Using prompt to ask for input 
