@@ -53,3 +53,7 @@ Listened to some tech experts about the 4 stages of the computers work flow
 creating a script
 
 Using prompt to ask for input 
+
+Using mathmatical and logical attributes in JS
+
+Using loops and conditions in JS
