@@ -1,18 +1,11 @@
 # reading-notes
 
-1. [**13/12/202**](#**13/12/2020**)
+1. [**13/12/2020**](#**https://m03-z.github.io/reading-notes/13-12.md**)
 2. [**14/12/2020**](#**14/12/2020**)
 3. [**15/12/2020**](#**15/12/2020**)
 4. [**16/12/2020**](#**16/12/2020**)
-## **13/12/2020**
 
-Github creation 
 
-Creating A Markdown
-
-learned more on using github
-
-Downloaded some programs needed to start working
 
 ## **14/12/2020**
 
