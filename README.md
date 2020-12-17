@@ -17,3 +17,15 @@
 4. E- Markiting at Princess Sumaya University for Technology
 
 ### Currently holding a Hotel Managment diploma
+
+# My growth mindset
+I can say that my mindset is considered a growth mindset 
+I guess I focus more on finding opportunities and evaluating them after that I tend to be stubborn to finish what I started no matter what obstacles I face 
+
+### 3 reminders 
+
+Put yourself first
+
+Don't dabbled in many goals
+
+Actions speack louder than words
